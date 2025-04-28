@@ -1,1 +1,4 @@
 # ridho_capstone2
+Transportasi Jakarta (Transjakarta) telah memulai revolusi transportasi publik dengan memperkenalkan armada bus listrik sejak 2024. Langkah ini tidak hanya bertujuan untuk mengurangi emisi karbon, tetapi juga meningkatkan efisiensi dan kapasitas pelayanan transportasi publik. Pada tahun 2025, penambahan 200 unit bus listrik secara bertahap menjadi bagian dari strategi ambisius untuk mencapai target 407 juta pelanggan Transjakarta dalam satu tahun.
+
+Dengan mengolah data secara tepat, analisis ini diharapkan mampu mengungkap dinamika perjalanan khususnya perbedaan antara transaksi pada jam sibuk dan non-sibuk serta mengidentifikasi 20 koridor yang memiliki trafik penumpang terbanyak pada jam-jam kritis tersebut. Informasi ini sangat penting sebagai dasar pengambilan keputusan strategis oleh pihak manajemen Transjakarta untuk pengoptimalan alokasi armada dan pengelolaan kepadatan penumpang secara keseluruhan.
